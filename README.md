@@ -4,7 +4,7 @@ Simple quiz app in Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a basic Flutter application, which explores core features and functionalities of Flutter.
 You can access the source code for this application in "lib" folder.
 
 
