@@ -1,6 +1,5 @@
-# quiz_app
-
-Simple quiz app in Flutter
+# Quiz_App
+A simple quiz taking app in Flutter
 
 ## Getting Started
 
